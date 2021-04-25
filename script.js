@@ -6,3 +6,5 @@ const df=0000;
 
 
 const hey="okyeah"
+const z1=20;
+const z2=50;
